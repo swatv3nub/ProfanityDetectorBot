@@ -1,4 +1,3 @@
-telethon
+pyrogram
 ProfanityDetector
-python-decouple
-requests
+TgCrypto
